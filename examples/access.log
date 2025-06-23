@@ -1,1 +1,5 @@
-
+128.217.61.99 - - [28/Jul/1995:13:28:13 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 200 5866
+128.217.61.99 - - [28/Jul/1995:13:28:14 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+128.217.61.99 - - [28/Jul/1995:13:28:15 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+128.217.61.99 - - [28/Jul/1995:13:28:15 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+ppp1-115.ganet.net - - [28/Jul/1995:13:28:16 -0400] "GET /htbin/wais.pl?camp HTTP/1.0" 200 5660
